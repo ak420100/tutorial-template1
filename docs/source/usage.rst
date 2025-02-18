@@ -7,7 +7,7 @@ Installation
 ------------
 
 To use Lumache, first install it using pip:
-
+Habit Tracker
 .. code-block:: console
 
    (.venv) $ pip install lumache
